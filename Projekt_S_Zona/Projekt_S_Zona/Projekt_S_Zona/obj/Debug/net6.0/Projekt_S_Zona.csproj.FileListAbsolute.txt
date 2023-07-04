@@ -1,0 +1,15 @@
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.csproj.AssemblyReference.cache
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.AssemblyInfoInputs.cache
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.AssemblyInfo.cs
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.csproj.CoreCompileInputs.cache
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\bin\Debug\net6.0\Projekt_S_Zona.exe
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\bin\Debug\net6.0\Projekt_S_Zona.deps.json
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\bin\Debug\net6.0\Projekt_S_Zona.runtimeconfig.json
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\bin\Debug\net6.0\Projekt_S_Zona.dll
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\bin\Debug\net6.0\Projekt_S_Zona.pdb
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.dll
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\refint\Projekt_S_Zona.dll
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.pdb
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\Projekt_S_Zona.genruntimeconfig.cache
+C:\Users\goga2\OneDrive\Рабочий стол\Projekt_S_Zona-main\Projekt_S_Zona\Projekt_S_Zona\obj\Debug\net6.0\ref\Projekt_S_Zona.dll
